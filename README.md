@@ -17,4 +17,6 @@ _(and我在赛车队油车电气组，也有要求学习AD、c、stm32，焊电�
 
 这个寒假在竞赛方面就简单来说是学C 学py 学stm32 
 
-[这是周总结！]()
+[详细周计划](https://github.com/super-kenai/WeeklyPlan-RobotWorkshop/blob/main/weeklyPlan.md)
+
+[这是周总结！](https://github.com/super-kenai/WeeklySum-RobotWorkshop.git)
